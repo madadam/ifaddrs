@@ -1,1 +1,0 @@
-{"rustc":11807999472408288889,"features":"[]","target":4288001497584489937,"profile":14119667493710126711,"deps":[["libc v0.2.30",16278783378035228853]],"local":[{"MtimeBased":[[1512576692,551727133],"/home/adam/projects/maidsafe/ifaddrs/ifaddrs-sys/target/debug/.fingerprint/ifaddrs-sys-726cd8665aa2f5ad/dep-lib-ifaddrs_sys-726cd8665aa2f5ad"]}],"rustflags":[]}
