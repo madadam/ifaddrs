@@ -1,6 +1,9 @@
 [package]
 name = "ifaddrs"
 version = "0.1.0"
+authors = ["MaidSafe Developers <dev@maidsafe.net>"]
+homepage = "https://maidsafe.net"
+license = "GPL-3.0"
 
 [dependencies]
 libc = "~0.2.28"
